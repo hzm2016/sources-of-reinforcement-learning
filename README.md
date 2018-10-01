@@ -198,7 +198,8 @@ Computer Games
   - [Let’s make a DQN](https://jaromiru.com/2016/09/27/lets-make-a-dqn-theory/) 
   - [Simple Reinforcement Learning with Tensorflow, Parts 0-8](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0#.78km20i8r) by Arthur Juliani
   - [Practical_RL](https://github.com/yandexdataschool/Practical_RL) - github-based course in reinforcement learning in the wild (lectures, coding labs, projects)
-
+  - [Principles of Deep RL](http://www.deeplearningindaba.com/uploads/1/0/2/6/102657286/principles_of_deep_rl.pdf) by David Silver (Deep Learning Indaba)
+  - [Success Stories of Deep RL](http://www.deeplearningindaba.com/uploads/1/0/2/6/102657286/success_stories_of_deep_rl.pdf) by David Silver (Deep leanring Indaba)
 
 
 ## Online Demos
