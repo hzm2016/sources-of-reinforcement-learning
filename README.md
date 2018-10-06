@@ -4,7 +4,7 @@ A curated list of resources dedicated to reinforcement learning.
 
 We have pages for other topics: [awesome-rnn](https://github.com/kjw0612/awesome-rnn), [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision), [awesome-random-forest](https://github.com/kjw0612/awesome-random-forest)
 
-Maintainers:[Zhimin Hou]() [Hyunsoo Kim](http://sites.duke.edu/hyunsookim/), [Jiwon Kim](http://github.com/kjw0612)
+Maintainers:[Zhimin Hou](https://github.com/hzm2016), [Hyunsoo Kim](http://sites.duke.edu/hyunsookim/), [Jiwon Kim](http://github.com/kjw0612)
 
 We are looking for more contributors and maintainers!
 
