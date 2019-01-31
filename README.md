@@ -166,7 +166,7 @@ Computer Games
   - Efficient Reinforcement Learning for Robots using Informative Simulated Priors (Cutler, ICRA 2015) [[Paper]](http://markjcutler.com/papers/Cutler15_ICRA.pdf) [[Video]](https://www.youtube.com/watch?v=kKClFx6l1HY)
   - Robots that can adapt like animals (Cully, Nature 2015) [[Paper](https://arxiv.org/abs/1407.3501)] [[Video](https://www.youtube.com/watch?v=T-c17RKh3uE)] [[Code](https://github.com/resibots/cully_2015_nature)]
   - Black-Box Data-efficient Policy Search for Robotics (Chatzilygeroudis, IROS 2017) [[Paper](https://arxiv.org/abs/1703.07261)] [[Video](https://www.youtube.com/watch?v=kTEyYiIFGPM)] [[Code](https://github.com/resibots/blackdrops)]
-  - Model-driven DDPG with fuzzy reward signals for robotic peg-in-hole assembly [[IEEE Transactions on Industrial Informatics](https://ieeexplore.ieee.org/abstract/document/8454796)]
+  - Model-driven DDPG with fuzzy reward signals for robotic peg-in-hole assembly(IEEE Transactions on Industrial Informatics) [[Paper](https://ieeexplore.ieee.org/abstract/document/8454796)]
 
 
 ### Control
