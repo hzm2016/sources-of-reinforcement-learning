@@ -58,8 +58,7 @@ Please feel free to [pull requests](https://github.com/aikorea/awesome-rl/pulls)
  - [Reinforcement Learning Examples by RLCode](https://github.com/rlcode/reinforcement-learning) - A Collection of minimal and clean reinforcement learning examples
  - [PyTorch Deep RL](https://github.com/ShangtongZhang/DeepRL) - Popular deep RL algorithm implementations with PyTorch
  - [Black-DROPS](https://github.com/resibots/blackdrops) - Modular and generic code for the model-based policy search Black-DROPS algorithm (IROS 2017 paper) and easy integration with the [DART](http://dartsim.github.io/) simulator
-all the state-of-art projects include CV, NLP, Robotics
- - [Browse state-of-the-art](https://paperswithcode.com/state-of-the-art?fbclid=IwAR0qtP_qJG58eFONylZRv6y8NN0X_2MKzKOYPCsKrr4370E4t_I9G0kukeM)
+ - [Browse state-of-the-art](https://paperswithcode.com/state-of-the-art?fbclid=IwAR0qtP_qJG58eFONylZRv6y8NN0X_2MKzKOYPCsKrr4370E4t_I9G0kukeM) - all the state-of-art projects include CV, NLP, Robotics
 
 ## Theory
 
