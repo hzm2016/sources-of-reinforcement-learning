@@ -27,7 +27,6 @@ Please feel free to [pull requests](https://github.com/aikorea/awesome-rl/pulls)
    - [Operations Research](#operations-research)
    - [Human Computer Interaction](#human-computer-interaction)
  - [Tutorials / Websites](#tutorials--websites)
- - [Report](#https://www.endtoend.ai/blog/tags/reinforcement-learning/)
  - [Online Demos](#online-demos)
  - [Open Source Reinforcement Learning Platforms](#open-source-reinforcement-learning-platforms)
 
@@ -63,6 +62,9 @@ Please feel free to [pull requests](https://github.com/aikorea/awesome-rl/pulls)
  - [Code for real robot examples](https://github.com/kindredresearch/SenseAct)
 
 ## Theory
+
+## Blog
+- [Paper reading] [endtoendAI](https://www.endtoend.ai/blog/tags/reinforcement-learning/)
 
 ### Lectures
  - [UCL] [COMPM050/COMPGI13 Reinforcement Learning](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) by David Silver
