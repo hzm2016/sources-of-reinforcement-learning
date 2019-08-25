@@ -27,6 +27,7 @@ Please feel free to [pull requests](https://github.com/aikorea/awesome-rl/pulls)
    - [Operations Research](#operations-research)
    - [Human Computer Interaction](#human-computer-interaction)
  - [Tutorials / Websites](#tutorials--websites)
+ - [Report](#https://www.endtoend.ai/blog/tags/reinforcement-learning/)
  - [Online Demos](#online-demos)
  - [Open Source Reinforcement Learning Platforms](#open-source-reinforcement-learning-platforms)
 
