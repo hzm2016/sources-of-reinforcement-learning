@@ -86,7 +86,7 @@ Please feel free to [pull requests](https://github.com/aikorea/awesome-rl/pulls)
    - [2017 DLRL summer school in Montreal](http://videolectures.net/deeplearning2017_montreal/)
    - [2018 DLRL summer school in Toronto](http://videolectures.net/DLRLsummerschool2018_toronto/)
  - [CMU] [Domain knowledge intergrate into deep learning process](https://www.cs.cmu.edu/~rsalakhu/NY_2019_v3.pdf?fbclid=IwAR173VPXIf5qKMdHQz9ptDT34v9XT29y8PUitU_B3MqgL1aJZXLBuUt38ag)
- -[Chinese version].[Intro to Reinforcement Learning (强化学习纲要)](https://github.com/zhoubolei/introRL)
+ - [Chinese version].[Intro to Reinforcement Learning (强化学习纲要)](https://github.com/zhoubolei/introRL)
 
 
 ### Books
